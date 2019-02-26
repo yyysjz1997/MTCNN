@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Pattern_recognition\\MTCNN-Tensorflow/data/MTCNN_model/PNet_landmark/PNet-30"
+all_model_checkpoint_paths: "D:\\Pattern_recognition\\MTCNN-Tensorflow/data/MTCNN_model/PNet_landmark/PNet-30"
